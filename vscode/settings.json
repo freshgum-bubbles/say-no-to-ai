@@ -1,0 +1,11 @@
+{
+	"C_Cpp.copilotHover": "disabled",
+	"github.copilot.enable": {
+		"*": false
+	},
+	"extensions.allowed": {
+		"*": true,
+		"GitHub.copilot": false,
+		"GitHub.copilot-chat": false
+	}
+}
